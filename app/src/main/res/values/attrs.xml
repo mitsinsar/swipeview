@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="EditableFieldView">
+        <attr name="title" format="string" />
+        <attr name="buttonFirstStateText" format="string" />
+        <attr name="buttonFirstStateColor" format="color" />
+        <attr name="buttonSecondStateText" format="string" />
+        <attr name="buttonSecondStateColor" format="color" />
+    </declare-styleable>
+</resources>
